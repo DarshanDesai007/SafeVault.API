@@ -1,0 +1,6 @@
+@SafeVault.API_HostAddress = http://localhost:5052
+
+GET {{SafeVault.API_HostAddress}}/Auth/
+Accept: application/json
+
+###
